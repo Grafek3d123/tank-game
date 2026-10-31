@@ -1,0 +1,17 @@
+# Godot Engine specific ignores
+*.godot/
+.import/
+.idea/
+.vscode/
+*.translation
+*.export_templates
+export_presets.cfg
+*.pck
+*.debug
+*.exe
+*.app
+*.zip
+
+# macOS
+.DS_Store
+._*
